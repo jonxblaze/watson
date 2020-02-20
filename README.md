@@ -1,4 +1,4 @@
-# [Watson WordPress Theme]
+# Watson WordPress Theme
 
 ## Features
 
